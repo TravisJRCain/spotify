@@ -36,7 +36,7 @@ Output:
 }
 ```
 
-to `http://127.0.0.1:5000/recommend`
+to `http://127.0.0.1:5000/features`
 
 will return a list of averaged features for the closest related 10songs for visualizations.
 
